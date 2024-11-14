@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\C\2048Game\2048Game\Source.cpp(90,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\C\2048Game\2048Game\Source.cpp(91,10): warning C4101: 'move': unreferenced local variable
+  2048Game.vcxproj -> D:\C\2048Game\Debug\2048Game.exe
